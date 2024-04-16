@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Users\hmenaganti\AmplifyAI_Automation\.metadata\.plugins\org.eclipse.jdt.core
+1100027053.index
+3011209426.index
+3442133542.index
+2103092034.index
+307049301.index
+1865797976.index
+2098849867.index
+2833302526.index
